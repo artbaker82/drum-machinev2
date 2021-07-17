@@ -1,0 +1,18 @@
+.container-main {
+  border: 1px solid black;
+  margin: 10rem 5rem;
+}
+
+#root {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  width: 65%;
+  border: 1px solid green;
+}
+
+button {
+  padding: 1.5rem;
+  margin: 2rem;
+  flex-basis: 7rem;
+}
